@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Call-Recorder-master.iml" filepath="$PROJECT_DIR$/Call-Recorder-master.iml" group="Call-Recorder-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/Call-Recorder-master-app.iml" filepath="$PROJECT_DIR$/app/Call-Recorder-master-app.iml" group="Call-Recorder-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneCallRecorder.iml" filepath="$PROJECT_DIR$/PhoneCallRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
